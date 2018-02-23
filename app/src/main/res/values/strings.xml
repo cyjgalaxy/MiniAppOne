@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiniAppOne</string>
+    <string name="poster">This is a poster.</string>
+    <string name="hasseen">Has Seen?</string>
+    <string name="alreadyseen">Already seen</string>
+    <string name="wanttosee">Want to see</string>
+    <string name="donotlike">Do not like</string>
+</resources>
